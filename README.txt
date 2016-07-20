@@ -1,4 +1,4 @@
-=== National Bank of Greece Payment Gateway for Woocommerce ===
+=== Alpha Bank Greece Payment Gateway for Woocommerce ===
 Contributors: mpbm23, emspacegr
 Tags: ecommerce, woocommerce, payment gateway
 Tested up to: 4.3.1
@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Adds National Bank of Greece as a payment Gateway for Woocommerce
 
 == Description ==
-Adds National Bank of Greece as a payment Gateway for Woocommerce.
+Adds Alpha Bank of Greece as a payment Gateway for Woocommerce.
 It uses the redirect method, and SSL is not required.
 
 Source code is available at [Github](htps://github.com/ellak-monades-aristeias/Woocommerce-Payment-Gateways-Greek-Banks)
